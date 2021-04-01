@@ -1,0 +1,46 @@
+<html lang="eng">
+<head>
+    <link rel="stylesheet" href="style.css">
+<link rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awersome/4.7.0/css/font-awersome.main.css">
+</head>
+<body>
+    <center>
+    <ul class="menu">
+    <li class="links"> <a href="#welcome"> About </a></li>
+        <li class="links"> <a href="#hobby"> My Hobby</a></li>
+        <li class="links"> <a href="#player"> My Favourite Player</a></li>
+        <li class="links"> <a href="#inspiration"> My Inspiration</a></li>
+        <li class="links"> <a href="#books"> My Favourite Book</a></li>
+        <li class="links"> <a href="#contact"> Contact</a></li>
+    </ul>
+        
+    <section id="actor">
+     <h1> My Favourite Actor </h1>
+          <div class="line"></div>
+        <img class="picture" src="e09730cca413689b8f5d01bf7abad70b.jpg">
+        <h1> Emma Watson <br> <h2> Emma Charlotte Duerre Watson (born 15 April 1990)[3] is an English actress, model, and activist. She has gained recognition for her roles in both blockbusters and independent films, as well as her women's rights work. Watson has been ranked among the world's highest-paid actresses by Forbes and Vanity Fair, and was named one of the 100 most influential people in the world by Time magazine in 2015.</h2> </h1>
+    <a class="picture" href="https://in.images.search.yahoo.com/search/images;_ylt=AwrtS3ff.l1gT2cAwEG9HAx.;_ylu=c2VjA3NlYXJjaARzbGsDYnV0dG9u;_ylc=X1MDMjExNDcyMzAwNQRfcgMyBGFjdG4DY2xrBGNzcmNwdmlkAzh6UmV6akV3TGpMamg3SWJZRjM2YlFhRk56QXVNd0FBQUFBRlJ0WWgEZnIDbWNhZmVlBGZyMgNzYS1ncARncHJpZANyNVFKLlQzdlJ2MmU5b1dBbVdOYWNBBG5fc3VnZwMyBG9yaWdpbgNpbi5pbWFnZXMuc2VhcmNoLnlhaG9vLmNvbQRwb3MDMARwcXN0cgMEcHFzdHJsAwRxc3RybAMyMQRxdWVyeQNlbW1hJTIwd2F0c29uJTIweW91bmcEdF9zdG1wAzE2MTY3NzE4NDA-?p=emma+watson+young&fr=mcafee&fr2=sb-top-in.images.search&ei=UTF-8&n=60&x=wrt" target="_blank"> Click Here To View Pictures of Emma Watson</a> <br> <br>
+    </section>
+    <section id="inspiration">
+     <h1> My Inspiration </h1> 
+          <div class="line"></div>
+        <img class="image" src="https://lh3.googleusercontent.com/proxy/Qk6oPHGRxlAWixDewDZiz32aa71HIpzFcTQ6N7QGI-No_BRVqThIv0_utaIuWbRBGvZ8RplcE-Nyu3z_XEwvri6oPNH83dAespECDXzYhmzgOR7kjbqm8RxFdKNkWE-wLtGskpSJ8D9LoRIi0YU"> <h1> J. K. Rowling <br> <h2>  J.K Rowling, is a British author and philanthropist. She is best known for writing the Harry Potter fantasy series, which has won multiple awards and sold more than 500 million copies, becoming the best-selling book series in history.</h2></h1>
+        <a class="picture" href="https://en.wikipedia.org/wiki/J._K._Rowling" target="_blank"> Click Here To Know More about J.K Rowling </a><br> <br>
+    </section>
+    
+    <section id="contact">
+    <h1> Contact</h1>
+        <div class="line"></div>
+        
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2885.2533649470606!2d-79.38312128408532!3d43.68449577912014!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b335329e23627%3A0x3e1b4971d178cfd9!2sWhitehall%20Rd%2C%20Toronto%2C%20ON!5e0!3m2!1sen!2sca!4v1617140264608!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+            
+            <i class="fa fa-envelope"> </i></a> &nbsp; &nbsp;
+            <h3>nimalsofea@gmail.com</h3>
+        
+            <a href="mailto:someone@example.com?Subject=Hello">
+                <i class="fa fa-envelope"></i>&nbsp;&nbsp;<h3>mygmailid@gmail.com</h3>
+            </a>
+        
+       </div>
+    </section>
